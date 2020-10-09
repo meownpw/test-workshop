@@ -1,7 +1,10 @@
 
 ## Install dependencies
-### `yarn install` 
+```
+yarn install
+```
 
 In the project directory, you can run:
-
-### `yarn start`
+```
+yarn start
+```
