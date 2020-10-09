@@ -1,5 +1,11 @@
+## React boilerplate workshop template
 
-## Install dependencies
+Clone this repository
+```
+git clone
+```
+
+Install dependencies
 ```
 yarn install
 ```
