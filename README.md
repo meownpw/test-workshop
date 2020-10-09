@@ -2,7 +2,7 @@
 
 Clone this repository
 ```
-git clone
+git clone https://git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/react-boilerplate-workshop
 ```
 
 Install dependencies
