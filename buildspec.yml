@@ -12,3 +12,4 @@ artifacts:
   files:
     - 'build/* '
     - 'appspec.yml'
+    - 'setup.yml'
