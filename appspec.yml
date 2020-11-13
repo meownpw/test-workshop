@@ -1,8 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: App/
-    destination: /var/www/html/
-  - source: nginx.conf
-    destination: /etc/nginx/
+  - source: /
+    destination: /usr/share/nginx/html
+ 
 
