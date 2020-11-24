@@ -8,7 +8,7 @@ function App() {
         <div className="App">
           <header className="App-header">
             <img src={'https://career.mfec.co.th/Career/img/mfec_logo.png'} className="App-logo" alt="logo" />
-            <p> meowmeowmeow</p>
+            <p> meowmeow</p>
             <p >{'MFEC CLOUD SERVICES'}</p>
           </header>
         </div>
