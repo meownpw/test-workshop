@@ -5,7 +5,7 @@ files:
     destination: /usr/share/nginx/html
 hooks:
   BeforeInstall:
-    - location: setup.sh
+    - location: /setup.sh
 
   
  
