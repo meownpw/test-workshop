@@ -13,3 +13,4 @@ artifacts:
 
     - 'build/**/*'
     - 'appspec.yml'
+    - 'setup.sh'
